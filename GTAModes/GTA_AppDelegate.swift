@@ -42,12 +42,12 @@ extension GTA_AppDelegate : PWMessagingDelegate {
     }
     
     //this event is fired when the push gets received
-    func pushwoosh(_ pushwoosh: Pushwoosh, onMessageReceived message: PWMessage) {
-        print("onMessageReceived: ", message.payload?.description ?? "error")
-    }
+//    func pushwoosh(_ pushwoosh: Pushwoosh, onMessageReceived message: PWMessage) {
+//        print("onMessageReceived: ", message.payload?.description ?? "error")
+//    }
     
     //this event is fired when a user taps the notification
-    func pushwoosh(_ pushwoosh: Pushwoosh, onMessageOpened message: PWMessage) {
-        print("onMessageOpened: ", message.payload?.description ?? "error")
-    }
+//    func pushwoosh(_ pushwoosh: Pushwoosh, onMessageOpened message: PWMessage) {
+//        print("onMessageOpened: ", message.payload?.description ?? "error")
+//    }
 }
