@@ -1,0 +1,57 @@
+{
+  "buildCommand" : {
+    "command" : "preview",
+    "style" : "dynamicReplacement"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "0057002108da1d41ff189842f0e14cbff733ae68ce7d91393f9e18e33f048aba"
+    }
+  ],
+  "containerPath" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/GTAModes.xcworkspace",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator17.2",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Products",
+      "derivedDataPath" : "/Volumes/MacMiniTools/XCode",
+      "indexDataStoreFolderPath" : "/Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "DSTROOT" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/Previews/GTAModes/ReleaseProducts",
+          "ENABLE_PREVIEWS" : "YES",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "OBJROOT" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/Previews/GTAModes/Intermediates.noindex",
+          "SYMROOT" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/Previews/GTAModes/Products"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

@@ -1,0 +1,24 @@
+dependencies: \
+  /Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/realm-core/src/realm/object-store/collection_notifications.cpp \
+  /Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/realm-core/src/realm/object-store/collection_notifications.hpp \
+  /Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/realm-core/src/realm/object-store/index_set.hpp \
+  /Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/realm-core/src/realm/object-store/util/atomic_shared_ptr.hpp \
+  /Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/realm-core/src/realm/object-store/impl/collection_notifier.hpp \
+  /Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/realm-core/src/realm/object-store/impl/deep_change_checker.hpp \
+  /Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/realm-core/src/realm/object-store/object_changeset.hpp \
+  /Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/realm-core/src/realm/keys.hpp \
+  /Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/realm-core/src/realm/util/to_string.hpp \
+  /Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/realm-core/src/realm/util/optional.hpp \
+  /Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/realm-core/src/realm/column_type.hpp \
+  /Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/realm-core/src/realm/data_type.hpp \
+  /Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/realm-core/src/realm/util/features.h \
+  /Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/realm-core/src/realm/util/assert.hpp \
+  /Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/realm-core/src/realm/util/terminate.hpp \
+  /Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/realm-core/src/realm/version.hpp \
+  /Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/realm-core/src/realm/object-store/impl/collection_change_builder.hpp \
+  /Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/realm-core/src/realm/util/function_ref.hpp \
+  /Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/realm-core/src/realm/util/checked_mutex.hpp \
+  /Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/realm-core/src/realm/util/functional.hpp \
+  /Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/realm-core/src/realm/util/type_traits.hpp \
+  /Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/realm-core/src/realm/version_id.hpp \
+  /Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/realm-core/src/realm/table_ref.hpp

@@ -1,0 +1,18 @@
+{
+  "" : {
+    "diagnostics" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseAnalyticsSwift.build/Objects-normal/arm64/FirebaseAnalyticsSwift-master.dia",
+    "emit-module-dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseAnalyticsSwift.build/Objects-normal/arm64/FirebaseAnalyticsSwift-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseAnalyticsSwift.build/Objects-normal/arm64/FirebaseAnalyticsSwift-master-emit-module.dia",
+    "swift-dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseAnalyticsSwift.build/Objects-normal/arm64/FirebaseAnalyticsSwift-master.swiftdeps"
+  },
+  "/Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAnalyticsSwift/Sources/Analytics+SwiftUI.swift" : {
+    "const-values" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseAnalyticsSwift.build/Objects-normal/arm64/Analytics+SwiftUI.swiftconstvalues",
+    "dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseAnalyticsSwift.build/Objects-normal/arm64/Analytics+SwiftUI.d",
+    "diagnostics" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseAnalyticsSwift.build/Objects-normal/arm64/Analytics+SwiftUI.dia",
+    "index-unit-output-path" : "/Firebase.build/Debug-iphonesimulator/FirebaseAnalyticsSwift.build/Objects-normal/arm64/Analytics+SwiftUI.o",
+    "llvm-bc" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseAnalyticsSwift.build/Objects-normal/arm64/Analytics+SwiftUI.bc",
+    "object" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseAnalyticsSwift.build/Objects-normal/arm64/Analytics+SwiftUI.o",
+    "swift-dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseAnalyticsSwift.build/Objects-normal/arm64/Analytics+SwiftUI.swiftdeps",
+    "swiftmodule" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseAnalyticsSwift.build/Objects-normal/arm64/Analytics+SwiftUI~partial.swiftmodule"
+  }
+}

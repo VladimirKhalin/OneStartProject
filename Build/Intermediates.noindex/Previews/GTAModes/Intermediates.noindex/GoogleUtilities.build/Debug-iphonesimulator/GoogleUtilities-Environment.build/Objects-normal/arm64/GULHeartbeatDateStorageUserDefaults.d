@@ -1,0 +1,4 @@
+dependencies: \
+  /Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/GoogleUtilities/GoogleUtilities/Environment/GULHeartbeatDateStorageUserDefaults.m \
+  /Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULHeartbeatDateStorageUserDefaults.h \
+  /Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULHeartbeatDateStorable.h

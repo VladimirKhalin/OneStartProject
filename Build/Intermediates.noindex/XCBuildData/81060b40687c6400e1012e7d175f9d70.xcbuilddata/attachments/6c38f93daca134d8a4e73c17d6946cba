@@ -1,0 +1,4 @@
+module GoogleUtilities_Environment {
+umbrella "/Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/GoogleUtilities/GoogleUtilities/Environment/Public"
+export *
+}

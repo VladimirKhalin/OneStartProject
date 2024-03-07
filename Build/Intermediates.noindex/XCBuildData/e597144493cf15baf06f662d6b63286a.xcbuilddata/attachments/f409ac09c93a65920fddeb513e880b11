@@ -1,0 +1,598 @@
+{
+  "" : {
+    "diagnostics" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/SwiftyDropbox-master.dia",
+    "emit-module-dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/SwiftyDropbox-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/SwiftyDropbox-master-emit-module.dia",
+    "swift-dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/SwiftyDropbox-master.swiftdeps"
+  },
+  "/Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/SwiftyDropbox/Source/SwiftyDropbox/Platform/SwiftyDropbox_iOS/LoadingViewController.swift" : {
+    "const-values" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/LoadingViewController.swiftconstvalues",
+    "dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/LoadingViewController.d",
+    "diagnostics" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/LoadingViewController.dia",
+    "index-unit-output-path" : "/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/LoadingViewController.o",
+    "llvm-bc" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/LoadingViewController.bc",
+    "object" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/LoadingViewController.o",
+    "swift-dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/LoadingViewController.swiftdeps",
+    "swiftmodule" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/LoadingViewController~partial.swiftmodule"
+  },
+  "/Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/SwiftyDropbox/Source/SwiftyDropbox/Platform/SwiftyDropbox_iOS/OAuthMobile.swift" : {
+    "const-values" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/OAuthMobile.swiftconstvalues",
+    "dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/OAuthMobile.d",
+    "diagnostics" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/OAuthMobile.dia",
+    "index-unit-output-path" : "/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/OAuthMobile.o",
+    "llvm-bc" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/OAuthMobile.bc",
+    "object" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/OAuthMobile.o",
+    "swift-dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/OAuthMobile.swiftdeps",
+    "swiftmodule" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/OAuthMobile~partial.swiftmodule"
+  },
+  "/Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/SwiftyDropbox/Source/SwiftyDropbox/Platform/SwiftyDropbox_iOS/UtilitiesMobile.swift" : {
+    "const-values" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/UtilitiesMobile.swiftconstvalues",
+    "dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/UtilitiesMobile.d",
+    "diagnostics" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/UtilitiesMobile.dia",
+    "index-unit-output-path" : "/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/UtilitiesMobile.o",
+    "llvm-bc" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/UtilitiesMobile.bc",
+    "object" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/UtilitiesMobile.o",
+    "swift-dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/UtilitiesMobile.swiftdeps",
+    "swiftmodule" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/UtilitiesMobile~partial.swiftmodule"
+  },
+  "/Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/SwiftyDropbox/Source/SwiftyDropbox/Platform/SwiftyDropbox_macOS/OAuthDesktop.swift" : {
+    "const-values" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/OAuthDesktop.swiftconstvalues",
+    "dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/OAuthDesktop.d",
+    "diagnostics" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/OAuthDesktop.dia",
+    "index-unit-output-path" : "/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/OAuthDesktop.o",
+    "llvm-bc" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/OAuthDesktop.bc",
+    "object" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/OAuthDesktop.o",
+    "swift-dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/OAuthDesktop.swiftdeps",
+    "swiftmodule" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/OAuthDesktop~partial.swiftmodule"
+  },
+  "/Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/SwiftyDropbox/Source/SwiftyDropbox/Shared/Generated/Account.swift" : {
+    "const-values" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Account.swiftconstvalues",
+    "dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Account.d",
+    "diagnostics" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Account.dia",
+    "index-unit-output-path" : "/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Account.o",
+    "llvm-bc" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Account.bc",
+    "object" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Account.o",
+    "swift-dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Account.swiftdeps",
+    "swiftmodule" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Account~partial.swiftmodule"
+  },
+  "/Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/SwiftyDropbox/Source/SwiftyDropbox/Shared/Generated/AccountRoutes.swift" : {
+    "const-values" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/AccountRoutes.swiftconstvalues",
+    "dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/AccountRoutes.d",
+    "diagnostics" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/AccountRoutes.dia",
+    "index-unit-output-path" : "/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/AccountRoutes.o",
+    "llvm-bc" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/AccountRoutes.bc",
+    "object" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/AccountRoutes.o",
+    "swift-dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/AccountRoutes.swiftdeps",
+    "swiftmodule" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/AccountRoutes~partial.swiftmodule"
+  },
+  "/Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/SwiftyDropbox/Source/SwiftyDropbox/Shared/Generated/Async.swift" : {
+    "const-values" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Async.swiftconstvalues",
+    "dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Async.d",
+    "diagnostics" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Async.dia",
+    "index-unit-output-path" : "/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Async.o",
+    "llvm-bc" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Async.bc",
+    "object" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Async.o",
+    "swift-dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Async.swiftdeps",
+    "swiftmodule" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Async~partial.swiftmodule"
+  },
+  "/Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/SwiftyDropbox/Source/SwiftyDropbox/Shared/Generated/Auth.swift" : {
+    "const-values" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Auth.swiftconstvalues",
+    "dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Auth.d",
+    "diagnostics" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Auth.dia",
+    "index-unit-output-path" : "/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Auth.o",
+    "llvm-bc" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Auth.bc",
+    "object" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Auth.o",
+    "swift-dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Auth.swiftdeps",
+    "swiftmodule" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Auth~partial.swiftmodule"
+  },
+  "/Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/SwiftyDropbox/Source/SwiftyDropbox/Shared/Generated/AuthRoutes.swift" : {
+    "const-values" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/AuthRoutes.swiftconstvalues",
+    "dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/AuthRoutes.d",
+    "diagnostics" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/AuthRoutes.dia",
+    "index-unit-output-path" : "/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/AuthRoutes.o",
+    "llvm-bc" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/AuthRoutes.bc",
+    "object" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/AuthRoutes.o",
+    "swift-dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/AuthRoutes.swiftdeps",
+    "swiftmodule" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/AuthRoutes~partial.swiftmodule"
+  },
+  "/Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/SwiftyDropbox/Source/SwiftyDropbox/Shared/Generated/Base.swift" : {
+    "const-values" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Base.swiftconstvalues",
+    "dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Base.d",
+    "diagnostics" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Base.dia",
+    "index-unit-output-path" : "/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Base.o",
+    "llvm-bc" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Base.bc",
+    "object" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Base.o",
+    "swift-dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Base.swiftdeps",
+    "swiftmodule" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Base~partial.swiftmodule"
+  },
+  "/Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/SwiftyDropbox/Source/SwiftyDropbox/Shared/Generated/BaseTeam.swift" : {
+    "const-values" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/BaseTeam.swiftconstvalues",
+    "dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/BaseTeam.d",
+    "diagnostics" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/BaseTeam.dia",
+    "index-unit-output-path" : "/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/BaseTeam.o",
+    "llvm-bc" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/BaseTeam.bc",
+    "object" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/BaseTeam.o",
+    "swift-dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/BaseTeam.swiftdeps",
+    "swiftmodule" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/BaseTeam~partial.swiftmodule"
+  },
+  "/Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/SwiftyDropbox/Source/SwiftyDropbox/Shared/Generated/Check.swift" : {
+    "const-values" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Check.swiftconstvalues",
+    "dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Check.d",
+    "diagnostics" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Check.dia",
+    "index-unit-output-path" : "/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Check.o",
+    "llvm-bc" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Check.bc",
+    "object" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Check.o",
+    "swift-dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Check.swiftdeps",
+    "swiftmodule" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Check~partial.swiftmodule"
+  },
+  "/Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/SwiftyDropbox/Source/SwiftyDropbox/Shared/Generated/CheckRoutes.swift" : {
+    "const-values" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/CheckRoutes.swiftconstvalues",
+    "dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/CheckRoutes.d",
+    "diagnostics" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/CheckRoutes.dia",
+    "index-unit-output-path" : "/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/CheckRoutes.o",
+    "llvm-bc" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/CheckRoutes.bc",
+    "object" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/CheckRoutes.o",
+    "swift-dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/CheckRoutes.swiftdeps",
+    "swiftmodule" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/CheckRoutes~partial.swiftmodule"
+  },
+  "/Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/SwiftyDropbox/Source/SwiftyDropbox/Shared/Generated/Common.swift" : {
+    "const-values" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Common.swiftconstvalues",
+    "dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Common.d",
+    "diagnostics" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Common.dia",
+    "index-unit-output-path" : "/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Common.o",
+    "llvm-bc" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Common.bc",
+    "object" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Common.o",
+    "swift-dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Common.swiftdeps",
+    "swiftmodule" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Common~partial.swiftmodule"
+  },
+  "/Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/SwiftyDropbox/Source/SwiftyDropbox/Shared/Generated/Contacts.swift" : {
+    "const-values" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Contacts.swiftconstvalues",
+    "dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Contacts.d",
+    "diagnostics" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Contacts.dia",
+    "index-unit-output-path" : "/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Contacts.o",
+    "llvm-bc" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Contacts.bc",
+    "object" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Contacts.o",
+    "swift-dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Contacts.swiftdeps",
+    "swiftmodule" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Contacts~partial.swiftmodule"
+  },
+  "/Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/SwiftyDropbox/Source/SwiftyDropbox/Shared/Generated/ContactsRoutes.swift" : {
+    "const-values" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/ContactsRoutes.swiftconstvalues",
+    "dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/ContactsRoutes.d",
+    "diagnostics" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/ContactsRoutes.dia",
+    "index-unit-output-path" : "/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/ContactsRoutes.o",
+    "llvm-bc" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/ContactsRoutes.bc",
+    "object" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/ContactsRoutes.o",
+    "swift-dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/ContactsRoutes.swiftdeps",
+    "swiftmodule" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/ContactsRoutes~partial.swiftmodule"
+  },
+  "/Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/SwiftyDropbox/Source/SwiftyDropbox/Shared/Generated/FileProperties.swift" : {
+    "const-values" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/FileProperties.swiftconstvalues",
+    "dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/FileProperties.d",
+    "diagnostics" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/FileProperties.dia",
+    "index-unit-output-path" : "/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/FileProperties.o",
+    "llvm-bc" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/FileProperties.bc",
+    "object" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/FileProperties.o",
+    "swift-dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/FileProperties.swiftdeps",
+    "swiftmodule" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/FileProperties~partial.swiftmodule"
+  },
+  "/Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/SwiftyDropbox/Source/SwiftyDropbox/Shared/Generated/FilePropertiesRoutes.swift" : {
+    "const-values" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/FilePropertiesRoutes.swiftconstvalues",
+    "dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/FilePropertiesRoutes.d",
+    "diagnostics" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/FilePropertiesRoutes.dia",
+    "index-unit-output-path" : "/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/FilePropertiesRoutes.o",
+    "llvm-bc" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/FilePropertiesRoutes.bc",
+    "object" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/FilePropertiesRoutes.o",
+    "swift-dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/FilePropertiesRoutes.swiftdeps",
+    "swiftmodule" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/FilePropertiesRoutes~partial.swiftmodule"
+  },
+  "/Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/SwiftyDropbox/Source/SwiftyDropbox/Shared/Generated/FileRequests.swift" : {
+    "const-values" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/FileRequests.swiftconstvalues",
+    "dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/FileRequests.d",
+    "diagnostics" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/FileRequests.dia",
+    "index-unit-output-path" : "/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/FileRequests.o",
+    "llvm-bc" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/FileRequests.bc",
+    "object" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/FileRequests.o",
+    "swift-dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/FileRequests.swiftdeps",
+    "swiftmodule" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/FileRequests~partial.swiftmodule"
+  },
+  "/Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/SwiftyDropbox/Source/SwiftyDropbox/Shared/Generated/FileRequestsRoutes.swift" : {
+    "const-values" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/FileRequestsRoutes.swiftconstvalues",
+    "dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/FileRequestsRoutes.d",
+    "diagnostics" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/FileRequestsRoutes.dia",
+    "index-unit-output-path" : "/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/FileRequestsRoutes.o",
+    "llvm-bc" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/FileRequestsRoutes.bc",
+    "object" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/FileRequestsRoutes.o",
+    "swift-dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/FileRequestsRoutes.swiftdeps",
+    "swiftmodule" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/FileRequestsRoutes~partial.swiftmodule"
+  },
+  "/Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/SwiftyDropbox/Source/SwiftyDropbox/Shared/Generated/Files.swift" : {
+    "const-values" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Files.swiftconstvalues",
+    "dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Files.d",
+    "diagnostics" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Files.dia",
+    "index-unit-output-path" : "/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Files.o",
+    "llvm-bc" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Files.bc",
+    "object" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Files.o",
+    "swift-dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Files.swiftdeps",
+    "swiftmodule" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Files~partial.swiftmodule"
+  },
+  "/Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/SwiftyDropbox/Source/SwiftyDropbox/Shared/Generated/FilesRoutes.swift" : {
+    "const-values" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/FilesRoutes.swiftconstvalues",
+    "dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/FilesRoutes.d",
+    "diagnostics" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/FilesRoutes.dia",
+    "index-unit-output-path" : "/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/FilesRoutes.o",
+    "llvm-bc" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/FilesRoutes.bc",
+    "object" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/FilesRoutes.o",
+    "swift-dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/FilesRoutes.swiftdeps",
+    "swiftmodule" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/FilesRoutes~partial.swiftmodule"
+  },
+  "/Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/SwiftyDropbox/Source/SwiftyDropbox/Shared/Generated/Openid.swift" : {
+    "const-values" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Openid.swiftconstvalues",
+    "dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Openid.d",
+    "diagnostics" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Openid.dia",
+    "index-unit-output-path" : "/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Openid.o",
+    "llvm-bc" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Openid.bc",
+    "object" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Openid.o",
+    "swift-dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Openid.swiftdeps",
+    "swiftmodule" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Openid~partial.swiftmodule"
+  },
+  "/Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/SwiftyDropbox/Source/SwiftyDropbox/Shared/Generated/OpenidRoutes.swift" : {
+    "const-values" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/OpenidRoutes.swiftconstvalues",
+    "dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/OpenidRoutes.d",
+    "diagnostics" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/OpenidRoutes.dia",
+    "index-unit-output-path" : "/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/OpenidRoutes.o",
+    "llvm-bc" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/OpenidRoutes.bc",
+    "object" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/OpenidRoutes.o",
+    "swift-dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/OpenidRoutes.swiftdeps",
+    "swiftmodule" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/OpenidRoutes~partial.swiftmodule"
+  },
+  "/Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/SwiftyDropbox/Source/SwiftyDropbox/Shared/Generated/Paper.swift" : {
+    "const-values" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Paper.swiftconstvalues",
+    "dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Paper.d",
+    "diagnostics" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Paper.dia",
+    "index-unit-output-path" : "/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Paper.o",
+    "llvm-bc" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Paper.bc",
+    "object" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Paper.o",
+    "swift-dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Paper.swiftdeps",
+    "swiftmodule" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Paper~partial.swiftmodule"
+  },
+  "/Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/SwiftyDropbox/Source/SwiftyDropbox/Shared/Generated/PaperRoutes.swift" : {
+    "const-values" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/PaperRoutes.swiftconstvalues",
+    "dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/PaperRoutes.d",
+    "diagnostics" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/PaperRoutes.dia",
+    "index-unit-output-path" : "/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/PaperRoutes.o",
+    "llvm-bc" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/PaperRoutes.bc",
+    "object" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/PaperRoutes.o",
+    "swift-dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/PaperRoutes.swiftdeps",
+    "swiftmodule" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/PaperRoutes~partial.swiftmodule"
+  },
+  "/Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/SwiftyDropbox/Source/SwiftyDropbox/Shared/Generated/SecondaryEmails.swift" : {
+    "const-values" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/SecondaryEmails.swiftconstvalues",
+    "dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/SecondaryEmails.d",
+    "diagnostics" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/SecondaryEmails.dia",
+    "index-unit-output-path" : "/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/SecondaryEmails.o",
+    "llvm-bc" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/SecondaryEmails.bc",
+    "object" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/SecondaryEmails.o",
+    "swift-dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/SecondaryEmails.swiftdeps",
+    "swiftmodule" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/SecondaryEmails~partial.swiftmodule"
+  },
+  "/Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/SwiftyDropbox/Source/SwiftyDropbox/Shared/Generated/SeenState.swift" : {
+    "const-values" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/SeenState.swiftconstvalues",
+    "dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/SeenState.d",
+    "diagnostics" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/SeenState.dia",
+    "index-unit-output-path" : "/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/SeenState.o",
+    "llvm-bc" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/SeenState.bc",
+    "object" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/SeenState.o",
+    "swift-dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/SeenState.swiftdeps",
+    "swiftmodule" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/SeenState~partial.swiftmodule"
+  },
+  "/Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/SwiftyDropbox/Source/SwiftyDropbox/Shared/Generated/Sharing.swift" : {
+    "const-values" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Sharing.swiftconstvalues",
+    "dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Sharing.d",
+    "diagnostics" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Sharing.dia",
+    "index-unit-output-path" : "/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Sharing.o",
+    "llvm-bc" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Sharing.bc",
+    "object" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Sharing.o",
+    "swift-dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Sharing.swiftdeps",
+    "swiftmodule" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Sharing~partial.swiftmodule"
+  },
+  "/Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/SwiftyDropbox/Source/SwiftyDropbox/Shared/Generated/SharingRoutes.swift" : {
+    "const-values" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/SharingRoutes.swiftconstvalues",
+    "dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/SharingRoutes.d",
+    "diagnostics" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/SharingRoutes.dia",
+    "index-unit-output-path" : "/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/SharingRoutes.o",
+    "llvm-bc" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/SharingRoutes.bc",
+    "object" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/SharingRoutes.o",
+    "swift-dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/SharingRoutes.swiftdeps",
+    "swiftmodule" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/SharingRoutes~partial.swiftmodule"
+  },
+  "/Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/SwiftyDropbox/Source/SwiftyDropbox/Shared/Generated/StoneBase.swift" : {
+    "const-values" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/StoneBase.swiftconstvalues",
+    "dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/StoneBase.d",
+    "diagnostics" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/StoneBase.dia",
+    "index-unit-output-path" : "/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/StoneBase.o",
+    "llvm-bc" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/StoneBase.bc",
+    "object" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/StoneBase.o",
+    "swift-dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/StoneBase.swiftdeps",
+    "swiftmodule" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/StoneBase~partial.swiftmodule"
+  },
+  "/Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/SwiftyDropbox/Source/SwiftyDropbox/Shared/Generated/StoneSerializers.swift" : {
+    "const-values" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/StoneSerializers.swiftconstvalues",
+    "dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/StoneSerializers.d",
+    "diagnostics" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/StoneSerializers.dia",
+    "index-unit-output-path" : "/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/StoneSerializers.o",
+    "llvm-bc" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/StoneSerializers.bc",
+    "object" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/StoneSerializers.o",
+    "swift-dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/StoneSerializers.swiftdeps",
+    "swiftmodule" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/StoneSerializers~partial.swiftmodule"
+  },
+  "/Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/SwiftyDropbox/Source/SwiftyDropbox/Shared/Generated/StoneValidators.swift" : {
+    "const-values" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/StoneValidators.swiftconstvalues",
+    "dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/StoneValidators.d",
+    "diagnostics" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/StoneValidators.dia",
+    "index-unit-output-path" : "/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/StoneValidators.o",
+    "llvm-bc" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/StoneValidators.bc",
+    "object" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/StoneValidators.o",
+    "swift-dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/StoneValidators.swiftdeps",
+    "swiftmodule" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/StoneValidators~partial.swiftmodule"
+  },
+  "/Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/SwiftyDropbox/Source/SwiftyDropbox/Shared/Generated/Team.swift" : {
+    "const-values" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Team.swiftconstvalues",
+    "dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Team.d",
+    "diagnostics" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Team.dia",
+    "index-unit-output-path" : "/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Team.o",
+    "llvm-bc" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Team.bc",
+    "object" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Team.o",
+    "swift-dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Team.swiftdeps",
+    "swiftmodule" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Team~partial.swiftmodule"
+  },
+  "/Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/SwiftyDropbox/Source/SwiftyDropbox/Shared/Generated/TeamCommon.swift" : {
+    "const-values" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/TeamCommon.swiftconstvalues",
+    "dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/TeamCommon.d",
+    "diagnostics" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/TeamCommon.dia",
+    "index-unit-output-path" : "/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/TeamCommon.o",
+    "llvm-bc" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/TeamCommon.bc",
+    "object" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/TeamCommon.o",
+    "swift-dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/TeamCommon.swiftdeps",
+    "swiftmodule" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/TeamCommon~partial.swiftmodule"
+  },
+  "/Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/SwiftyDropbox/Source/SwiftyDropbox/Shared/Generated/TeamLog.swift" : {
+    "const-values" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/TeamLog.swiftconstvalues",
+    "dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/TeamLog.d",
+    "diagnostics" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/TeamLog.dia",
+    "index-unit-output-path" : "/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/TeamLog.o",
+    "llvm-bc" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/TeamLog.bc",
+    "object" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/TeamLog.o",
+    "swift-dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/TeamLog.swiftdeps",
+    "swiftmodule" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/TeamLog~partial.swiftmodule"
+  },
+  "/Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/SwiftyDropbox/Source/SwiftyDropbox/Shared/Generated/TeamLogRoutes.swift" : {
+    "const-values" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/TeamLogRoutes.swiftconstvalues",
+    "dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/TeamLogRoutes.d",
+    "diagnostics" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/TeamLogRoutes.dia",
+    "index-unit-output-path" : "/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/TeamLogRoutes.o",
+    "llvm-bc" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/TeamLogRoutes.bc",
+    "object" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/TeamLogRoutes.o",
+    "swift-dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/TeamLogRoutes.swiftdeps",
+    "swiftmodule" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/TeamLogRoutes~partial.swiftmodule"
+  },
+  "/Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/SwiftyDropbox/Source/SwiftyDropbox/Shared/Generated/TeamPolicies.swift" : {
+    "const-values" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/TeamPolicies.swiftconstvalues",
+    "dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/TeamPolicies.d",
+    "diagnostics" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/TeamPolicies.dia",
+    "index-unit-output-path" : "/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/TeamPolicies.o",
+    "llvm-bc" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/TeamPolicies.bc",
+    "object" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/TeamPolicies.o",
+    "swift-dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/TeamPolicies.swiftdeps",
+    "swiftmodule" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/TeamPolicies~partial.swiftmodule"
+  },
+  "/Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/SwiftyDropbox/Source/SwiftyDropbox/Shared/Generated/TeamRoutes.swift" : {
+    "const-values" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/TeamRoutes.swiftconstvalues",
+    "dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/TeamRoutes.d",
+    "diagnostics" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/TeamRoutes.dia",
+    "index-unit-output-path" : "/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/TeamRoutes.o",
+    "llvm-bc" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/TeamRoutes.bc",
+    "object" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/TeamRoutes.o",
+    "swift-dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/TeamRoutes.swiftdeps",
+    "swiftmodule" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/TeamRoutes~partial.swiftmodule"
+  },
+  "/Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/SwiftyDropbox/Source/SwiftyDropbox/Shared/Generated/Users.swift" : {
+    "const-values" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Users.swiftconstvalues",
+    "dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Users.d",
+    "diagnostics" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Users.dia",
+    "index-unit-output-path" : "/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Users.o",
+    "llvm-bc" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Users.bc",
+    "object" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Users.o",
+    "swift-dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Users.swiftdeps",
+    "swiftmodule" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Users~partial.swiftmodule"
+  },
+  "/Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/SwiftyDropbox/Source/SwiftyDropbox/Shared/Generated/UsersCommon.swift" : {
+    "const-values" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/UsersCommon.swiftconstvalues",
+    "dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/UsersCommon.d",
+    "diagnostics" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/UsersCommon.dia",
+    "index-unit-output-path" : "/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/UsersCommon.o",
+    "llvm-bc" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/UsersCommon.bc",
+    "object" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/UsersCommon.o",
+    "swift-dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/UsersCommon.swiftdeps",
+    "swiftmodule" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/UsersCommon~partial.swiftmodule"
+  },
+  "/Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/SwiftyDropbox/Source/SwiftyDropbox/Shared/Generated/UsersRoutes.swift" : {
+    "const-values" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/UsersRoutes.swiftconstvalues",
+    "dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/UsersRoutes.d",
+    "diagnostics" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/UsersRoutes.dia",
+    "index-unit-output-path" : "/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/UsersRoutes.o",
+    "llvm-bc" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/UsersRoutes.bc",
+    "object" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/UsersRoutes.o",
+    "swift-dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/UsersRoutes.swiftdeps",
+    "swiftmodule" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/UsersRoutes~partial.swiftmodule"
+  },
+  "/Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/SwiftyDropbox/Source/SwiftyDropbox/Shared/Handwritten/ChunkInputStream.swift" : {
+    "const-values" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/ChunkInputStream.swiftconstvalues",
+    "dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/ChunkInputStream.d",
+    "diagnostics" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/ChunkInputStream.dia",
+    "index-unit-output-path" : "/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/ChunkInputStream.o",
+    "llvm-bc" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/ChunkInputStream.bc",
+    "object" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/ChunkInputStream.o",
+    "swift-dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/ChunkInputStream.swiftdeps",
+    "swiftmodule" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/ChunkInputStream~partial.swiftmodule"
+  },
+  "/Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/SwiftyDropbox/Source/SwiftyDropbox/Shared/Handwritten/Custom.swift" : {
+    "const-values" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Custom.swiftconstvalues",
+    "dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Custom.d",
+    "diagnostics" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Custom.dia",
+    "index-unit-output-path" : "/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Custom.o",
+    "llvm-bc" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Custom.bc",
+    "object" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Custom.o",
+    "swift-dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Custom.swiftdeps",
+    "swiftmodule" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Custom~partial.swiftmodule"
+  },
+  "/Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/SwiftyDropbox/Source/SwiftyDropbox/Shared/Handwritten/CustomRoutes.swift" : {
+    "const-values" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/CustomRoutes.swiftconstvalues",
+    "dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/CustomRoutes.d",
+    "diagnostics" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/CustomRoutes.dia",
+    "index-unit-output-path" : "/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/CustomRoutes.o",
+    "llvm-bc" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/CustomRoutes.bc",
+    "object" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/CustomRoutes.o",
+    "swift-dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/CustomRoutes.swiftdeps",
+    "swiftmodule" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/CustomRoutes~partial.swiftmodule"
+  },
+  "/Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/SwiftyDropbox/Source/SwiftyDropbox/Shared/Handwritten/CustomTasks.swift" : {
+    "const-values" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/CustomTasks.swiftconstvalues",
+    "dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/CustomTasks.d",
+    "diagnostics" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/CustomTasks.dia",
+    "index-unit-output-path" : "/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/CustomTasks.o",
+    "llvm-bc" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/CustomTasks.bc",
+    "object" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/CustomTasks.o",
+    "swift-dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/CustomTasks.swiftdeps",
+    "swiftmodule" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/CustomTasks~partial.swiftmodule"
+  },
+  "/Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/SwiftyDropbox/Source/SwiftyDropbox/Shared/Handwritten/DropboxClient.swift" : {
+    "const-values" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/DropboxClient.swiftconstvalues",
+    "dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/DropboxClient.d",
+    "diagnostics" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/DropboxClient.dia",
+    "index-unit-output-path" : "/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/DropboxClient.o",
+    "llvm-bc" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/DropboxClient.bc",
+    "object" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/DropboxClient.o",
+    "swift-dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/DropboxClient.swiftdeps",
+    "swiftmodule" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/DropboxClient~partial.swiftmodule"
+  },
+  "/Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/SwiftyDropbox/Source/SwiftyDropbox/Shared/Handwritten/DropboxClientsManager.swift" : {
+    "const-values" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/DropboxClientsManager.swiftconstvalues",
+    "dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/DropboxClientsManager.d",
+    "diagnostics" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/DropboxClientsManager.dia",
+    "index-unit-output-path" : "/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/DropboxClientsManager.o",
+    "llvm-bc" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/DropboxClientsManager.bc",
+    "object" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/DropboxClientsManager.o",
+    "swift-dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/DropboxClientsManager.swiftdeps",
+    "swiftmodule" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/DropboxClientsManager~partial.swiftmodule"
+  },
+  "/Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/SwiftyDropbox/Source/SwiftyDropbox/Shared/Handwritten/DropboxTeamClient.swift" : {
+    "const-values" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/DropboxTeamClient.swiftconstvalues",
+    "dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/DropboxTeamClient.d",
+    "diagnostics" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/DropboxTeamClient.dia",
+    "index-unit-output-path" : "/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/DropboxTeamClient.o",
+    "llvm-bc" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/DropboxTeamClient.bc",
+    "object" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/DropboxTeamClient.o",
+    "swift-dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/DropboxTeamClient.swiftdeps",
+    "swiftmodule" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/DropboxTeamClient~partial.swiftmodule"
+  },
+  "/Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/SwiftyDropbox/Source/SwiftyDropbox/Shared/Handwritten/DropboxTransportClient.swift" : {
+    "const-values" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/DropboxTransportClient.swiftconstvalues",
+    "dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/DropboxTransportClient.d",
+    "diagnostics" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/DropboxTransportClient.dia",
+    "index-unit-output-path" : "/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/DropboxTransportClient.o",
+    "llvm-bc" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/DropboxTransportClient.bc",
+    "object" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/DropboxTransportClient.o",
+    "swift-dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/DropboxTransportClient.swiftdeps",
+    "swiftmodule" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/DropboxTransportClient~partial.swiftmodule"
+  },
+  "/Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/SwiftyDropbox/Source/SwiftyDropbox/Shared/Handwritten/OAuth/AccessTokenProvider.swift" : {
+    "const-values" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/AccessTokenProvider.swiftconstvalues",
+    "dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/AccessTokenProvider.d",
+    "diagnostics" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/AccessTokenProvider.dia",
+    "index-unit-output-path" : "/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/AccessTokenProvider.o",
+    "llvm-bc" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/AccessTokenProvider.bc",
+    "object" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/AccessTokenProvider.o",
+    "swift-dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/AccessTokenProvider.swiftdeps",
+    "swiftmodule" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/AccessTokenProvider~partial.swiftmodule"
+  },
+  "/Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/SwiftyDropbox/Source/SwiftyDropbox/Shared/Handwritten/OAuth/AuthSession.swift" : {
+    "const-values" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/AuthSession.swiftconstvalues",
+    "dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/AuthSession.d",
+    "diagnostics" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/AuthSession.dia",
+    "index-unit-output-path" : "/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/AuthSession.o",
+    "llvm-bc" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/AuthSession.bc",
+    "object" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/AuthSession.o",
+    "swift-dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/AuthSession.swiftdeps",
+    "swiftmodule" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/AuthSession~partial.swiftmodule"
+  },
+  "/Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/SwiftyDropbox/Source/SwiftyDropbox/Shared/Handwritten/OAuth/OAuth.swift" : {
+    "const-values" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/OAuth.swiftconstvalues",
+    "dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/OAuth.d",
+    "diagnostics" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/OAuth.dia",
+    "index-unit-output-path" : "/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/OAuth.o",
+    "llvm-bc" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/OAuth.bc",
+    "object" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/OAuth.o",
+    "swift-dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/OAuth.swiftdeps",
+    "swiftmodule" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/OAuth~partial.swiftmodule"
+  },
+  "/Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/SwiftyDropbox/Source/SwiftyDropbox/Shared/Handwritten/OAuth/OAuthConstants.swift" : {
+    "const-values" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/OAuthConstants.swiftconstvalues",
+    "dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/OAuthConstants.d",
+    "diagnostics" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/OAuthConstants.dia",
+    "index-unit-output-path" : "/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/OAuthConstants.o",
+    "llvm-bc" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/OAuthConstants.bc",
+    "object" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/OAuthConstants.o",
+    "swift-dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/OAuthConstants.swiftdeps",
+    "swiftmodule" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/OAuthConstants~partial.swiftmodule"
+  },
+  "/Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/SwiftyDropbox/Source/SwiftyDropbox/Shared/Handwritten/OAuth/OAuthTokenRequest.swift" : {
+    "const-values" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/OAuthTokenRequest.swiftconstvalues",
+    "dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/OAuthTokenRequest.d",
+    "diagnostics" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/OAuthTokenRequest.dia",
+    "index-unit-output-path" : "/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/OAuthTokenRequest.o",
+    "llvm-bc" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/OAuthTokenRequest.bc",
+    "object" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/OAuthTokenRequest.o",
+    "swift-dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/OAuthTokenRequest.swiftdeps",
+    "swiftmodule" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/OAuthTokenRequest~partial.swiftmodule"
+  },
+  "/Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/SwiftyDropbox/Source/SwiftyDropbox/Shared/Handwritten/OAuth/OAuthUtils.swift" : {
+    "const-values" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/OAuthUtils.swiftconstvalues",
+    "dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/OAuthUtils.d",
+    "diagnostics" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/OAuthUtils.dia",
+    "index-unit-output-path" : "/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/OAuthUtils.o",
+    "llvm-bc" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/OAuthUtils.bc",
+    "object" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/OAuthUtils.o",
+    "swift-dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/OAuthUtils.swiftdeps",
+    "swiftmodule" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/OAuthUtils~partial.swiftmodule"
+  },
+  "/Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/SwiftyDropbox/Source/SwiftyDropbox/Shared/Handwritten/Request+TokenRefresh.swift" : {
+    "const-values" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Request+TokenRefresh.swiftconstvalues",
+    "dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Request+TokenRefresh.d",
+    "diagnostics" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Request+TokenRefresh.dia",
+    "index-unit-output-path" : "/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Request+TokenRefresh.o",
+    "llvm-bc" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Request+TokenRefresh.bc",
+    "object" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Request+TokenRefresh.o",
+    "swift-dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Request+TokenRefresh.swiftdeps",
+    "swiftmodule" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/Request+TokenRefresh~partial.swiftmodule"
+  },
+  "/Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/SwiftyDropbox/Source/SwiftyDropbox/Shared/Handwritten/SDKConstants.swift" : {
+    "const-values" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/SDKConstants.swiftconstvalues",
+    "dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/SDKConstants.d",
+    "diagnostics" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/SDKConstants.dia",
+    "index-unit-output-path" : "/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/SDKConstants.o",
+    "llvm-bc" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/SDKConstants.bc",
+    "object" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/SDKConstants.o",
+    "swift-dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/SDKConstants.swiftdeps",
+    "swiftmodule" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/SDKConstants~partial.swiftmodule"
+  },
+  "/Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/SwiftyDropbox/Source/SwiftyDropbox/Shared/Handwritten/TransportConfig.swift" : {
+    "const-values" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/TransportConfig.swiftconstvalues",
+    "dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/TransportConfig.d",
+    "diagnostics" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/TransportConfig.dia",
+    "index-unit-output-path" : "/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/TransportConfig.o",
+    "llvm-bc" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/TransportConfig.bc",
+    "object" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/TransportConfig.o",
+    "swift-dependencies" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/TransportConfig.swiftdeps",
+    "swiftmodule" : "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/Build/Intermediates.noindex/SwiftyDropbox.build/Debug-iphonesimulator/SwiftyDropbox.build/Objects-normal/arm64/TransportConfig~partial.swiftmodule"
+  }
+}

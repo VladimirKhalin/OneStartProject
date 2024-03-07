@@ -1,0 +1,4 @@
+module SwiftyDropbox {
+header "SwiftyDropbox-Swift.h"
+export *
+}

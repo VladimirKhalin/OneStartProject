@@ -1,0 +1,33 @@
+dependencies: \
+  /Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/realm-core/src/realm/object-store/sync/app_credentials.cpp \
+  /Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/realm-core/src/realm/object-store/sync/app_credentials.hpp \
+  /Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/realm-core/src/realm/object-store/util/tagged_string.hpp \
+  /Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/realm-core/src/realm/object-store/util/bson/bson.hpp \
+  /Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/realm-core/src/realm/object-store/util/bson/indexed_map.hpp \
+  /Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/realm-core/src/realm/object-store/util/bson/regular_expression.hpp \
+  /Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/realm-core/src/realm/object-store/util/bson/min_key.hpp \
+  /Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/realm-core/src/realm/object-store/util/bson/max_key.hpp \
+  /Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/realm-core/src/realm/object-store/util/bson/mongo_timestamp.hpp \
+  /Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/realm-core/src/realm/binary_data.hpp \
+  /Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/realm-core/src/realm/owned_data.hpp \
+  /Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/realm-core/src/realm/util/assert.hpp \
+  /Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/realm-core/src/realm/util/features.h \
+  /Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/realm-core/src/realm/util/terminate.hpp \
+  /Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/realm-core/src/realm/util/to_string.hpp \
+  /Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/realm-core/src/realm/util/optional.hpp \
+  /Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/realm-core/src/realm/version.hpp \
+  /Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/realm-core/src/realm/utilities.hpp \
+  /Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/realm-core/src/realm/util/functional.hpp \
+  /Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/realm-core/src/realm/util/type_traits.hpp \
+  /Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/realm-core/src/realm/util/safe_int_ops.hpp \
+  /Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/realm-core/src/realm/timestamp.hpp \
+  /Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/realm-core/src/realm/null.hpp \
+  /Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/realm-core/src/realm/exceptions.hpp \
+  /Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/realm-core/src/realm/status.hpp \
+  /Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/realm-core/src/realm/error_codes.hpp \
+  /Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/realm-core/src/realm/error_codes.h \
+  /Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/realm-core/src/realm/util/bind_ptr.hpp \
+  /Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/realm-core/src/realm/decimal128.hpp \
+  /Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/realm-core/src/realm/string_data.hpp \
+  /Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/realm-core/src/realm/object_id.hpp \
+  /Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/realm-core/src/realm/uuid.hpp

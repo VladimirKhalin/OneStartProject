@@ -1,0 +1,4 @@
+module FirebaseAnalyticsOnDeviceConversionTarget {
+umbrella "/Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAnalyticsOnDeviceConversionWrapper/include"
+export *
+}

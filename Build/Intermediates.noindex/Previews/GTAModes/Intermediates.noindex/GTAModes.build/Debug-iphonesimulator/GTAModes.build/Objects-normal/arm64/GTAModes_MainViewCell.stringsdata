@@ -1,0 +1,12 @@
+{
+  "source": "/Users/vladimirkhalin/Downloads/iOS-Mods-for-GTA-5-REF--PROJECT-300-main/GTAModes/GTAModes/Common/UI/Cells/MainTableViewCell/GTAModes_MainViewCell.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Hello, World!"
+      }
+    ]
+  },
+  "version": 1
+}

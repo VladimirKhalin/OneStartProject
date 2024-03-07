@@ -1,0 +1,4 @@
+module nanopb {
+umbrella "/Volumes/MacMiniTools/XCode/GTAModes-dnnrbhlblttyrghcbmjmxbnpozuc/SourcePackages/checkouts/nanopb/spm_headers"
+export *
+}
